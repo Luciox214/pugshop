@@ -187,7 +187,7 @@ button:hover {
 }
 
 .derecha {
-  background: url(/images/consulnutricion.jpg);
+  background: url(images/consulnutricion.jpg);
   background-size: cover;
   background-position: center;
   width: 50%;
@@ -209,14 +209,14 @@ button:hover {
 }
 
 .derecha2 {
-  background: url(/images/pugcamera.png);
+  background: url(images/pugcamera.png);
   background-size: cover;
   background-position: center;
   width: 50%;
   height: 100%;
 }
 .derecha3 {
-  background: url(/images/suscripcion.png);
+  background: url(images/suscripcion.png);
   background-size: cover;
   background-position: center;
   width: 50%;
